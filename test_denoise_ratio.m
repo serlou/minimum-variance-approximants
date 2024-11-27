@@ -1,0 +1,2 @@
+test_denoise_ratio_aux(@covariance_nonuniform_uncorrelated);
+test_denoise_ratio_aux(@covariance_correlated);

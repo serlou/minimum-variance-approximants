@@ -8,4 +8,4 @@ This repository includes:
 
 Copyright (c) 2024 Sergio López-Ureña and Dionisio F. Yáñez
 
-[1] Sergio López-Ureña, Dionisio F. Yáñez ...
+[1] Sergio López-Ureña, Dionisio F. Yáñez. Optimal linear subdivision rules for noisy data. https://doi.org/10.48550/arXiv.2412.01287
